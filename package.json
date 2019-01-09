@@ -1,0 +1,24 @@
+{
+  "name": "marketo-filling-form",
+  "version": "1.0.0",
+  "description": "Backend to communicate with the Marketo API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cc4m1l0/marketo-filling-form.git"
+  },
+  "keywords": [
+    "marketo",
+    "forms",
+    "node"
+  ],
+  "author": "c4m1l0",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cc4m1l0/marketo-filling-form/issues"
+  },
+  "homepage": "https://github.com/cc4m1l0/marketo-filling-form#readme"
+}
